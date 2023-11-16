@@ -1,0 +1,59 @@
+.banner_part{
+    height: 600px;
+    background: rgb(20, 7, 37);
+    display: flex;
+    align-items: center;
+}
+
+.banner_h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 77px;
+    font-weight: 700;
+    color: #fff;
+    width: 386px;
+    line-height: 90px;
+    /* margin-top: 70px !important; */
+}
+
+.banner_p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 23px;
+    font-weight: 400;
+    color: #B7B4BB;
+    width: 445px;
+    line-height: 39px;
+    margin-top: 20px !important;
+}
+
+.benner_btn{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    padding: 13px 40px !important;
+    background: #e348ff;
+    display: inline-block;
+    margin-top: 30px !important;
+    border-radius: 30px;
+}
+
+.bannerimg_item{
+    width: 100%;
+    position: relative;
+}
+
+.img_banner{
+    width: 96%;
+    height: 393px;
+}
+
+.img_banner img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.img_two{
+    position: absolute;
+    top: 50px;
+    right: 0;
+}

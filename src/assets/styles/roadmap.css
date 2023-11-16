@@ -1,0 +1,20 @@
+.roadmap_part{
+    height: 700px;
+    background: rgb(19, 6, 36);
+}
+
+.roadmap_h3{
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+}
+
+.swiper_item{
+    width: 90%;
+    height: 450px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 20px;
+    margin-top: 60px !important;
+}

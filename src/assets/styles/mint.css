@@ -1,0 +1,67 @@
+.mint_part{
+    padding: 50px 0 !important;
+    background: rgb(19, 6, 36);
+}
+
+.main_title{
+    text-align: center;
+}
+
+.main_title_h3{
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.col-lg-6 {
+    flex: 0 0 auto;
+    width: 50%;
+    padding-left: 17px !important;
+    padding-right: 17px !important;
+}
+
+.maint_details {
+    width: 80%;  
+    margin: 60px auto !important;
+}
+
+.maint_item{
+    width: 100%;
+    padding: 40px 25px !important;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 20px;
+    margin-bottom: 30px !important;
+    box-shadow: 0 3px 8px -1px rgba(0, 0, 0, 0.08);
+}
+
+.maint_main{
+    display: flex;
+}
+
+.maint_img {
+    width: 67%;
+}
+
+.mint_h2{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.mint_p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 16px !important;
+}
+
+.maint_left{
+    width: 25%;
+}
+
+.maint_right{
+    width: 75%;
+}
