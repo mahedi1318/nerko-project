@@ -1,0 +1,45 @@
+.footer_part {
+    height: 500px;
+    background: rgb(19, 6, 36);
+    text-align: center;
+}
+
+.footer_part img{
+    width: 15%;
+}
+
+.footer_p {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 500;
+    color: #fff;
+    width: 400px;
+    margin: -23px auto !important;
+    line-height: 35px;
+}
+
+.footer_icon {
+    color: #b7b7b7;
+    font-size: 27px;
+    margin-top: 48px !important;
+    display: inline-block;
+    margin-left: 36px !important;
+}
+
+.copy_right {
+    border-top: 1px solid rgba(131, 131, 131, 0.25);
+    margin-top: 80px !important;
+}
+
+.copy_text {
+    font-family: 'Playfair Display', serif;
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+    margin-top: 24px !important;
+    text-align: left;
+}
+
+.copy_one{
+    text-align: right;
+}
