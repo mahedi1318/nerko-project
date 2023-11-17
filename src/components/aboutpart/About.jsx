@@ -3,6 +3,7 @@ import AboutIng from './AboutIng'
 import { Col, Container, Row } from 'react-bootstrap'
 import AboutText from './AboutText'
 import "../../assets/styles/about.css"
+import "../../assets/styles/responsive.css"
 
 const About = () => {
   return (
@@ -12,10 +13,10 @@ const About = () => {
                 <h3 className='about_h3'>About the platform</h3>
             </div>
             <Row>
-                <Col>
+                <Col lg={6}>
                     <AboutIng/>
                 </Col>
-                <Col>
+                <Col lg={6}>
                     <AboutText/>
                 </Col>
             </Row>

@@ -9,10 +9,10 @@ const Banner = () => {
     <div className='banner_part'>
         <Container>
             <Row>
-                <Col lg={6}>
+                <Col>
                     <BannerText/>
                 </Col>
-                <Col lg={6}>
+                <Col>
                     <BannerImg/>
                 </Col>
             </Row>

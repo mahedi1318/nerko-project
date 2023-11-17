@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import "../../assets/styles/latest.css"
-import Art from "../../assets/images/art_01.jpg"
 import { LatestData } from '../../middleware/Api'
+import "../../assets/styles/responsive.css"
 
 const Latest = () => {
 
