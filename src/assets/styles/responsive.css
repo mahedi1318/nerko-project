@@ -101,6 +101,9 @@
         width: 261px;
         margin: 9px auto !important;
     }
+    .latest_part {
+        height: 3923px !important; 
+    }
     .latest_h3 {       
         font-size: 40px !important;    
         margin-bottom: -62px !important;   
@@ -112,5 +115,33 @@
     .latest_item_list> *:nth-child(odd){
         margin-top: 5px !important;
     }
-   
+    .swiper-slide {      
+        width: 100% !important;
+    }
+    .swiper_item { 
+        margin: 36px auto !important;
+    }
+    .roadmap_part {
+        height: 588px !important;      
+    }
+    .roadmap_h3 {     
+        font-size: 34px !important;      
+    }
+    .map_p {      
+        font-size: 16px !important;   
+        width: 273px !important;
+       
+    }
+    .footer_part img {
+        width: 44% !important;
+    }
+    .footer_p {   
+        font-size: 17px !important;
+        width: 324px !important;
+        margin: -7px auto !important;
+        line-height: 29px !important;
+    }
+    .copy_one {
+        text-align: left !important;
+    }
 }

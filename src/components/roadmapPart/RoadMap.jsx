@@ -5,6 +5,7 @@ import 'swiper/css';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { RoadMapData } from '../../middleware/Api';
 import { FaRegCheckCircle } from "react-icons/fa";
+import "../../assets/styles/responsive.css"
 
 const RoadMap = () => {
 
